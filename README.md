@@ -2,8 +2,8 @@
 Demo framework using selenium and restsharp
 
 *******How to Use Framework********
-1. First create log directory as C>code>Logs
-2. Download Demo.zip and extract in any directory lets say Under D:
+  1. First create log directory as C>code>Logs
+  2. Download Demo.zip and extract in any directory lets say Under D:
 3. Open TestAutomation.sln in visual studio 2019. Make sure .Net Framework available as 4.7.2
 4. Build entire solution
 5. Once solution build successfully. Open test explorer.
